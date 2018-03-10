@@ -3,7 +3,7 @@ const products = [];
 exports.init = function() {
     products.push(
         {
-            name: "borek",
+            name: "kyllingBorek",
             price: "25"
         },
         {
